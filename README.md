@@ -1,6 +1,6 @@
-git clone https://github.com/hilcrhymer78787/react-template.git
+git clone https://github.com/hilcrhymer78787/react-ts-template.git
 
-cd react-template
+cd react-ts-template
 
 rm -rf .git
 
