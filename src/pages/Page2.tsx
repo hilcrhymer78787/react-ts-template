@@ -12,5 +12,5 @@ export function Page2() {
 
 const Text = styled.p`
   padding: 30px;
-  color: ${(props) => props.color}
+  color: ${(props: { color: string }) => props.color}
 `

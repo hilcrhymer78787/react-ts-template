@@ -14,5 +14,5 @@ export function Home() {
 
 const Text = styled.p`
   padding: 30px;
-  color: ${(props) => props.color}
+  color: ${(props: { color: string }) => props.color}
 `
